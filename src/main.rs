@@ -1,4 +1,3 @@
-// Declare the modules directory
 mod modules;
 
 fn main() {
